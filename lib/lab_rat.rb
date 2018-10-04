@@ -1,0 +1,3 @@
+class LabRat < TimeSensitive
+  
+end
